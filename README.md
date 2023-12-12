@@ -6,28 +6,36 @@ I’m a passionate full-stack web developer. I like developing applications and 
 ## Past Experience
 
 ## Tech Stack
+
+<h4>General</h4>
 <p>
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=sass" />
   <img src="https://skillicons.dev/icons?i=js" />
-<!-- </p>
-<p> -->
+</p>
+
+<h4>Front-End</h4>
+<p>
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=bootstrap" />
-  <img src="https://skillicons.dev/icons?i=sass" />
+  <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://opencollective.com/chakra-ui/organization/0/avatar.svg?avatarHeight=120" />  
-<!-- </p>
-<p> -->
+</p>
+
+<h4>Backend and Database</h4>
+<p>
   <img src="https://skillicons.dev/icons?i=express" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=postgres" />  
-<!-- </p>
-<p> -->
+  <img src="https://skillicons.dev/icons?i=mongodb" /> 
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=docker" />
-<!-- </p>
-<p> -->
+</p>
+
+<h4>Object Oriented Programming</h4>
+<p>
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://skillicons.dev/icons?i=java" />
