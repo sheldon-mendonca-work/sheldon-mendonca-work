@@ -1,7 +1,7 @@
-### 🚀 Hi there 👋
+## 🚀 Hi there 👋
 <h1 align="center">I'm <a href="https://sheldon-mendonca.netlify.app/">Sheldon Mendonca</a></h1> <p align="center"> Full-stack Engineer who enjoys building scalable systems </p>
 
-### 🧠 About Me
+## 🧠 About Me
 
 I’m a Frontend Developer with 2+ years of experience building production-grade web applications.
 
@@ -11,8 +11,8 @@ I’m a Frontend Developer with 2+ years of experience building production-grade
 🧩 Care deeply about code quality, edge cases, and real-world reliability
 
 
-### 💼 Experience
-## Software Development Engineer
+## 💼 Experience
+### Software Development Engineer
 
 HireHunch — Bengaluru
 📅 May 2024 – Present
