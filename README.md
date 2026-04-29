@@ -1,61 +1,40 @@
-### Hi there 👋
-<h1 align="center">I am <a href="https://sheldon-mendonca.netlify.app/">Sheldon Mendonca</h1>
+### 🚀 Hi there 👋
+<h1 align="center">I'm <a href="https://sheldon-mendonca.netlify.app/">Sheldon Mendonca</a></h1> <p align="center"> Full-stack Engineer who enjoys building scalable systems </p>
 
-I’m a passionate full-stack web developer. I like developing applications and exploring new technologies.
+### 🧠 About Me
 
-## Past Experience
+I’m a Frontend Developer with 2+ years of experience building production-grade web applications.
 
-## Tech Stack
+🎯 Strong focus on performance, scalability, and clean architecture
+⚙️ Enjoy working on system design and backend-driven problems
+🚀 Experienced in building and shipping end-to-end products under tight timelines
+🧩 Care deeply about code quality, edge cases, and real-world reliability
 
-<h4>General</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=sass" />
-  <img src="https://skillicons.dev/icons?i=js" />
-</p>
 
-<h4>Front-End</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-  <img src="https://skillicons.dev/icons?i=typescript" />
-  <img src="https://opencollective.com/chakra-ui/organization/0/avatar.svg?avatarHeight=120" />  
-</p>
+### 💼 Experience
+## Software Development Engineer
 
-<h4>Backend and Database</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=express" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=postgres" />  
-  <img src="https://skillicons.dev/icons?i=mongodb" /> 
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-</p>
+HireHunch — Bengaluru
+📅 May 2024 – Present
 
-<h4>Object Oriented Programming</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+Built and shipped 10+ high-impact features including white-labeling and real-time modules using React + TypeScript
+Resolved 25+ critical production issues, reducing support load by 35% and improving system stability
+Led frontend development for JusRecruit MVP, delivering ATS workflows and onboarding systems in 3 months
+Implemented analytics tracking (20+ events) using Google Analytics and GTM for product insights
+Set up CI/CD pipelines on AWS (Amplify, EC2, S3) → improved deployment speed by 60%
+Mentored junior developers through code reviews and pair programming, improving overall code quality
+🛠️ Tech Stack
+🧩 Core
+<p> <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,python,sql" /> </p>
+🎨 Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,sass,bootstrap" /> <img src="https://opencollective.com/chakra-ui/organization/0/avatar.svg?avatarHeight=120" /> </p>
+⚙️ Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,spring" /> </p>
+🗄️ Databases
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> </p>
+☁️ DevOps & Tools
+<p> <img src="https://skillicons.dev/icons?i=docker,aws,github,git" /> </p>
 
 ## Connect with me
 
 You can connect with me at <a href='https://in.linkedin.com/in/sheldon-mendonca' target="_blank" rel="noopener noreferrer">LinkedIn</a> or through email(sheldonmendoncawork123@gmail.com)
-<!--
-**sheldon-mendonca-work/sheldon-mendonca-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
