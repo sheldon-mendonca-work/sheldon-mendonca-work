@@ -1,15 +1,16 @@
 ## 🚀 Hi there 👋
-<h1 align="center">I'm <a href="https://sheldon-mendonca.netlify.app/">Sheldon Mendonca</a></h1> <p align="center"> Full-stack Engineer who enjoys building scalable systems </p>
+<h1 align="center">I'm <a href="https://sheldon-mendonca.netlify.app/">Sheldon Mendonca</a></h1>
+<p align="center">Full-Stack Engineer, frontend-led — aiming to own systems across the stack</p>
+
 
 ## 🧠 About Me
 
-I’m a Frontend Developer with 2+ years of experience building production-grade web applications.
+- Frontend architect and technical owner on my team for 8 products with hands-on backend REST API work - I treat frontend as a system, not a website
+- Led frontend architecture from scratch for a real-time AI platform (WebRTC/LiveKit, collaborative editor, live proctoring)
+- Shipped the JusRecruit MVP in ~4 months and resolved 25+ production issues through systematic monitoring
 
-🎯 Strong focus on performance, scalability, and clean architecture
-⚙️ Enjoy working on system design and backend-driven problems
-🚀 Experienced in building and shipping end-to-end products under tight timelines
-🧩 Care deeply about code quality, edge cases, and real-world reliability
 
+Currently deepening backend depth — multithreading, performance and clean, maintainable code — through a self-directed distributed systems project.
 
 ## 💼 Experience
 ### Software Development Engineer
@@ -17,23 +18,24 @@ I’m a Frontend Developer with 2+ years of experience building production-grade
 HireHunch — Bengaluru
 📅 May 2024 – Present
 
-Built and shipped 10+ high-impact features including white-labeling and real-time modules using React + TypeScript
-Resolved 25+ critical production issues, reducing support load by 35% and improving system stability
-Led frontend development for JusRecruit MVP, delivering ATS workflows and onboarding systems in 3 months
-Implemented analytics tracking (20+ events) using Google Analytics and GTM for product insights
-Set up CI/CD pipelines on AWS (Amplify, EC2, S3) → improved deployment speed by 60%
-Mentored junior developers through code reviews and pair programming, improving overall code quality
+- Built and shipped 10+ high-impact features including white-labeling and real-time modules using React + TypeScript
+- Resolved 25+ critical production issues, along with fixes during monitoring improving system stability
+- Led frontend development for JusRecruit MVP, delivering ATS workflows and onboarding systems in 3 months
+- Implemented analytics tracking (20+ events) using Google Analytics and GTM for product insights
+- Set up CI/CD pipelines on AWS (Amplify, EC2, S3)
+
+
 🛠️ Tech Stack
 🧩 Core
-<p> <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,python,sql" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=ts,java,js,cpp,python,sql" /> </p>
 🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,sass,bootstrap" /> <img src="https://opencollective.com/chakra-ui/organization/0/avatar.svg?avatarHeight=120" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vitest,html,css,sass,bootstrap" /> <img src="https://opencollective.com/chakra-ui/organization/0/avatar.svg?avatarHeight=120" /> </p>
 ⚙️ Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,spring" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka" /> </p>
 🗄️ Databases
 <p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> </p>
 ☁️ DevOps & Tools
-<p> <img src="https://skillicons.dev/icons?i=docker,aws,github,git" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=aws,bitbucket,docker,github,git,sentry,grafana" /> </p>
 
 ## Connect with me
 
